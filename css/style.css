@@ -20,5 +20,7 @@ nav{
 form{
     border: solid 1px grey;
     padding: 10px;
-
+}
+p{
+    color: rgb(5, 102, 54);
 }
