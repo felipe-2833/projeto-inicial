@@ -28,3 +28,6 @@ button{
     background-color: rgb(32, 126, 241);
     color: rgb(252, 252, 252);
 }
+footer{
+    border-top: solid 2px rgb(238, 6, 6);
+}
