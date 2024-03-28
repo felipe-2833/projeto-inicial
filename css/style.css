@@ -24,3 +24,7 @@ form{
 p{
     color: rgb(5, 102, 54);
 }
+button{
+    background-color: rgb(32, 126, 241);
+    color: rgb(252, 252, 252);
+}
